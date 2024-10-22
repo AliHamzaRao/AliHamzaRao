@@ -1,5 +1,3 @@
- <img src="https://github.com/AliHamzaRao.png" alt="Hassan Taj" style="width:25%; border-radius:50%;" /> 
-
 <div >
   <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliHamzaRao&theme=transparent"/>
 </div>
