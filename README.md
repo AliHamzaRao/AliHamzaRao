@@ -1,14 +1,14 @@
 <div >
-  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihrao&theme=transparent"/>
+  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliHamzaRao&theme=transparent"/>
 </div>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihrao&theme=transparent" alt="Repos per Language" style="width:48%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alihrao&theme=transparent" alt="Most Commit Language" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliHamzaRao&theme=transparent" alt="Repos per Language" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliHamzaRao&theme=transparent" alt="Most Commit Language" style="width:48%" /> 
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihrao&layout=compact&theme=transparent" alt="Most Used Languages" style="width:48%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alihrao&theme=transparent" alt="Stats" style="width:48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamzaRao&layout=compact&theme=transparent" alt="Most Used Languages" style="width:48%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliHamzaRao&theme=transparent" alt="Stats" style="width:48%" /> 
 </div>
 
 
